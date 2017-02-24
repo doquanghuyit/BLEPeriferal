@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7d481ef3f9ba19cd965de4bafd47b4db8c118747">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f653e59f89f375edc4de23f9f473b8461b8b3994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_7df20e40cc9d75c6ef857c1fd315679739ea5fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_be5638f48f93e4dafd5a0d5ff488385aef15d6ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_da8fa0a82622efb4df13d6c6a6a5d83329ce9227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_f674e35eab819c52e76a15e9d8860f9e4cd0019a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b5eb4b43ad4ad7aac805566d707c1f6900c313">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c892f1a01e215a0dc91930b342ead394627e0a77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_dc7e5c411503eec4564a49dc1826f63d236ef702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_fe98758737b237254c8c57391576997b7a3eb585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_5ad89c8917b62076b32b16ae59c390b7cc2bd616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_469748953a62721ba6a6a5533eed2fac43246c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_768cc4b12683f834ee15097a1c9f2123157ffe4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/doquanghuy/AndroidProjects/BLEPeriferal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_8f02871500dd7eaf16480e33d4de03b1b1dc8467/classes.dex" />
+    </item>
+
+</items>
